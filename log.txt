@@ -1,0 +1,210 @@
+[2018-02-11T19:57:58.670] [INFO] log - Tweet: Test 21
+[2018-02-11T19:57:58.672] [INFO] log - Created at: Sun Feb 11 22:44:49 +0000 2018
+[2018-02-11T19:57:58.672] [INFO] log - -------------------------------------
+
+[2018-02-11T19:57:58.672] [INFO] log - Tweet: Test 20
+[2018-02-11T19:57:58.673] [INFO] log - Created at: Sun Feb 11 22:44:44 +0000 2018
+[2018-02-11T19:57:58.673] [INFO] log - -------------------------------------
+
+[2018-02-11T19:57:58.673] [INFO] log - Tweet: Test 19
+[2018-02-11T19:57:58.673] [INFO] log - Created at: Sun Feb 11 22:44:41 +0000 2018
+[2018-02-11T19:57:58.673] [INFO] log - -------------------------------------
+
+[2018-02-11T19:57:58.673] [INFO] log - Tweet: Test 18
+[2018-02-11T19:57:58.673] [INFO] log - Created at: Sun Feb 11 22:44:36 +0000 2018
+[2018-02-11T19:57:58.673] [INFO] log - -------------------------------------
+
+[2018-02-11T19:57:58.673] [INFO] log - Tweet: Test 17
+[2018-02-11T19:57:58.673] [INFO] log - Created at: Sun Feb 11 22:44:32 +0000 2018
+[2018-02-11T19:57:58.673] [INFO] log - -------------------------------------
+
+[2018-02-11T19:57:58.674] [INFO] log - Tweet: Test 16
+[2018-02-11T19:57:58.674] [INFO] log - Created at: Sun Feb 11 22:44:28 +0000 2018
+[2018-02-11T19:57:58.674] [INFO] log - -------------------------------------
+
+[2018-02-11T19:57:58.674] [INFO] log - Tweet: Test 15
+[2018-02-11T19:57:58.674] [INFO] log - Created at: Sun Feb 11 22:44:24 +0000 2018
+[2018-02-11T19:57:58.674] [INFO] log - -------------------------------------
+
+[2018-02-11T19:57:58.674] [INFO] log - Tweet: Test 14
+[2018-02-11T19:57:58.674] [INFO] log - Created at: Sun Feb 11 22:44:13 +0000 2018
+[2018-02-11T19:57:58.674] [INFO] log - -------------------------------------
+
+[2018-02-11T19:57:58.677] [INFO] log - Tweet: Test 13
+[2018-02-11T19:57:58.677] [INFO] log - Created at: Sun Feb 11 22:44:09 +0000 2018
+[2018-02-11T19:57:58.677] [INFO] log - -------------------------------------
+
+[2018-02-11T19:57:58.677] [INFO] log - Tweet: Test 12
+[2018-02-11T19:57:58.677] [INFO] log - Created at: Sun Feb 11 22:44:04 +0000 2018
+[2018-02-11T19:57:58.677] [INFO] log - -------------------------------------
+
+[2018-02-11T19:57:58.677] [INFO] log - Tweet: Test 11
+[2018-02-11T19:57:58.678] [INFO] log - Created at: Sun Feb 11 22:43:48 +0000 2018
+[2018-02-11T19:57:58.678] [INFO] log - -------------------------------------
+
+[2018-02-11T19:57:58.678] [INFO] log - Tweet: Test 10
+[2018-02-11T19:57:58.678] [INFO] log - Created at: Sun Feb 11 22:43:43 +0000 2018
+[2018-02-11T19:57:58.678] [INFO] log - -------------------------------------
+
+[2018-02-11T19:57:58.678] [INFO] log - Tweet: Test 9
+[2018-02-11T19:57:58.678] [INFO] log - Created at: Sun Feb 11 22:43:37 +0000 2018
+[2018-02-11T19:57:58.678] [INFO] log - -------------------------------------
+
+[2018-02-11T19:57:58.678] [INFO] log - Tweet: Test 8
+[2018-02-11T19:57:58.678] [INFO] log - Created at: Sun Feb 11 22:43:34 +0000 2018
+[2018-02-11T19:57:58.678] [INFO] log - -------------------------------------
+
+[2018-02-11T19:57:58.678] [INFO] log - Tweet: Test 7
+[2018-02-11T19:57:58.678] [INFO] log - Created at: Sun Feb 11 22:43:28 +0000 2018
+[2018-02-11T19:57:58.679] [INFO] log - -------------------------------------
+
+[2018-02-11T19:57:58.679] [INFO] log - Tweet: Test 6
+[2018-02-11T19:57:58.679] [INFO] log - Created at: Sun Feb 11 22:43:23 +0000 2018
+[2018-02-11T19:57:58.679] [INFO] log - -------------------------------------
+
+[2018-02-11T19:57:58.679] [INFO] log - Tweet: Test 5
+[2018-02-11T19:57:58.679] [INFO] log - Created at: Sun Feb 11 22:43:19 +0000 2018
+[2018-02-11T19:57:58.679] [INFO] log - -------------------------------------
+
+[2018-02-11T19:57:58.679] [INFO] log - Tweet: Test 4 Biathlons are Crazy!
+[2018-02-11T19:57:58.679] [INFO] log - Created at: Sun Feb 11 22:29:43 +0000 2018
+[2018-02-11T19:57:58.679] [INFO] log - -------------------------------------
+
+[2018-02-11T19:57:58.679] [INFO] log - Tweet: Test 3 Watching the Olympics!
+[2018-02-11T19:57:58.679] [INFO] log - Created at: Sun Feb 11 22:29:24 +0000 2018
+[2018-02-11T19:57:58.679] [INFO] log - -------------------------------------
+
+[2018-02-11T19:57:58.680] [INFO] log - Tweet: Test 2
+[2018-02-11T19:57:58.680] [INFO] log - Created at: Sun Feb 11 22:29:11 +0000 2018
+[2018-02-11T19:57:58.680] [INFO] log - -------------------------------------
+
+[2018-02-11T19:59:22.849] [ALL] log - Tweet: Test 21
+[2018-02-11T19:59:22.852] [ALL] log - Created at: Sun Feb 11 22:44:49 +0000 2018
+[2018-02-11T19:59:22.852] [ALL] log - -------------------------------------
+
+[2018-02-11T19:59:22.852] [ALL] log - Tweet: Test 20
+[2018-02-11T19:59:22.852] [ALL] log - Created at: Sun Feb 11 22:44:44 +0000 2018
+[2018-02-11T19:59:22.852] [ALL] log - -------------------------------------
+
+[2018-02-11T19:59:22.852] [ALL] log - Tweet: Test 19
+[2018-02-11T19:59:22.852] [ALL] log - Created at: Sun Feb 11 22:44:41 +0000 2018
+[2018-02-11T19:59:22.853] [ALL] log - -------------------------------------
+
+[2018-02-11T19:59:22.853] [ALL] log - Tweet: Test 18
+[2018-02-11T19:59:22.853] [ALL] log - Created at: Sun Feb 11 22:44:36 +0000 2018
+[2018-02-11T19:59:22.853] [ALL] log - -------------------------------------
+
+[2018-02-11T19:59:22.853] [ALL] log - Tweet: Test 17
+[2018-02-11T19:59:22.853] [ALL] log - Created at: Sun Feb 11 22:44:32 +0000 2018
+[2018-02-11T19:59:22.853] [ALL] log - -------------------------------------
+
+[2018-02-11T19:59:22.853] [ALL] log - Tweet: Test 16
+[2018-02-11T19:59:22.853] [ALL] log - Created at: Sun Feb 11 22:44:28 +0000 2018
+[2018-02-11T19:59:22.853] [ALL] log - -------------------------------------
+
+[2018-02-11T19:59:22.853] [ALL] log - Tweet: Test 15
+[2018-02-11T19:59:22.854] [ALL] log - Created at: Sun Feb 11 22:44:24 +0000 2018
+[2018-02-11T19:59:22.854] [ALL] log - -------------------------------------
+
+[2018-02-11T19:59:22.854] [ALL] log - Tweet: Test 14
+[2018-02-11T19:59:22.854] [ALL] log - Created at: Sun Feb 11 22:44:13 +0000 2018
+[2018-02-11T19:59:22.854] [ALL] log - -------------------------------------
+
+[2018-02-11T19:59:22.857] [ALL] log - Tweet: Test 13
+[2018-02-11T19:59:22.857] [ALL] log - Created at: Sun Feb 11 22:44:09 +0000 2018
+[2018-02-11T19:59:22.857] [ALL] log - -------------------------------------
+
+[2018-02-11T19:59:22.857] [ALL] log - Tweet: Test 12
+[2018-02-11T19:59:22.857] [ALL] log - Created at: Sun Feb 11 22:44:04 +0000 2018
+[2018-02-11T19:59:22.857] [ALL] log - -------------------------------------
+
+[2018-02-11T19:59:22.857] [ALL] log - Tweet: Test 11
+[2018-02-11T19:59:22.857] [ALL] log - Created at: Sun Feb 11 22:43:48 +0000 2018
+[2018-02-11T19:59:22.857] [ALL] log - -------------------------------------
+
+[2018-02-11T19:59:22.857] [ALL] log - Tweet: Test 10
+[2018-02-11T19:59:22.857] [ALL] log - Created at: Sun Feb 11 22:43:43 +0000 2018
+[2018-02-11T19:59:22.858] [ALL] log - -------------------------------------
+
+[2018-02-11T19:59:22.858] [ALL] log - Tweet: Test 9
+[2018-02-11T19:59:22.858] [ALL] log - Created at: Sun Feb 11 22:43:37 +0000 2018
+[2018-02-11T19:59:22.858] [ALL] log - -------------------------------------
+
+[2018-02-11T19:59:22.858] [ALL] log - Tweet: Test 8
+[2018-02-11T19:59:22.858] [ALL] log - Created at: Sun Feb 11 22:43:34 +0000 2018
+[2018-02-11T19:59:22.858] [ALL] log - -------------------------------------
+
+[2018-02-11T19:59:22.858] [ALL] log - Tweet: Test 7
+[2018-02-11T19:59:22.858] [ALL] log - Created at: Sun Feb 11 22:43:28 +0000 2018
+[2018-02-11T19:59:22.858] [ALL] log - -------------------------------------
+
+[2018-02-11T19:59:22.858] [ALL] log - Tweet: Test 6
+[2018-02-11T19:59:22.858] [ALL] log - Created at: Sun Feb 11 22:43:23 +0000 2018
+[2018-02-11T19:59:22.858] [ALL] log - -------------------------------------
+
+[2018-02-11T19:59:22.859] [ALL] log - Tweet: Test 5
+[2018-02-11T19:59:22.859] [ALL] log - Created at: Sun Feb 11 22:43:19 +0000 2018
+[2018-02-11T19:59:22.859] [ALL] log - -------------------------------------
+
+[2018-02-11T19:59:22.859] [ALL] log - Tweet: Test 4 Biathlons are Crazy!
+[2018-02-11T19:59:22.859] [ALL] log - Created at: Sun Feb 11 22:29:43 +0000 2018
+[2018-02-11T19:59:22.859] [ALL] log - -------------------------------------
+
+[2018-02-11T19:59:22.859] [ALL] log - Tweet: Test 3 Watching the Olympics!
+[2018-02-11T19:59:22.859] [ALL] log - Created at: Sun Feb 11 22:29:24 +0000 2018
+[2018-02-11T19:59:22.859] [ALL] log - -------------------------------------
+
+[2018-02-11T19:59:22.859] [ALL] log - Tweet: Test 2
+[2018-02-11T19:59:22.859] [ALL] log - Created at: Sun Feb 11 22:29:11 +0000 2018
+[2018-02-11T19:59:22.859] [ALL] log - -------------------------------------
+
+[2018-02-11T20:04:41.819] [ALL] all - Artist(s): Sublime
+[2018-02-11T20:04:41.821] [ALL] all - Song name: Santeria
+[2018-02-11T20:04:41.821] [ALL] all - Preview link: null
+[2018-02-11T20:04:41.821] [ALL] all - Album: Sublime (Deluxe Edition)
+[2018-02-11T20:05:41.561] [ALL] all - Artist(s): Flume
+[2018-02-11T20:05:41.563] [ALL] all - Song name: Never Be Like You (feat. Kai)
+[2018-02-11T20:05:41.563] [ALL] all - Preview link: https://p.scdn.co/mp3-preview/6f3d7fdb0f819e467897b881afe949b2806bfbc4?cid=81f9cf262a644c7a85c7a3258eea0a79
+[2018-02-11T20:05:41.567] [ALL] all - Album: Skin
+[2018-02-11T20:05:51.994] [ALL] all - Artist(s): Birdy
+[2018-02-11T20:05:51.996] [ALL] all - Song name: Skinny Love
+[2018-02-11T20:05:51.997] [ALL] all - Preview link: https://p.scdn.co/mp3-preview/fa2ee949327d85e7bd22385f00737744ebf87d60?cid=81f9cf262a644c7a85c7a3258eea0a79
+[2018-02-11T20:05:51.997] [ALL] all - Album: Birdy
+[2018-02-11T20:06:47.644] [ALL] all - Artist(s): Bon Iver
+[2018-02-11T20:06:47.646] [ALL] all - Song name: Skinny Love
+[2018-02-11T20:06:47.646] [ALL] all - Preview link: https://p.scdn.co/mp3-preview/9964fbfa8b9d85d3b4edcd5a47c6386f0eadee92?cid=81f9cf262a644c7a85c7a3258eea0a79
+[2018-02-11T20:06:47.647] [ALL] all - Album: For Emma, Forever Ago
+[2018-02-11T20:06:47.647] [ALL] all - 
+
+[2018-02-11T20:08:07.523] [ALL] all - Artist(s): Bon Iver
+[2018-02-11T20:08:07.525] [ALL] all - Song name: Skinny Love
+[2018-02-11T20:08:07.526] [ALL] all - Preview link: https://p.scdn.co/mp3-preview/9964fbfa8b9d85d3b4edcd5a47c6386f0eadee92?cid=81f9cf262a644c7a85c7a3258eea0a79
+[2018-02-11T20:08:07.526] [ALL] all - Album: For Emma, Forever Ago
+
+[2018-02-11T20:13:27.778] [ALL] all - Title: Rockwell Tools Bladerunner X2
+[2018-02-11T20:13:38.119] [ALL] all - Title: Rockwell Tools Bladerunner X2
+[2018-02-11T20:13:54.552] [ALL] all - Title: undefined
+[2018-02-11T20:14:02.570] [ALL] all - Title: undefined
+[2018-02-11T20:14:14.879] [ALL] all - Title: The Lord of the Rings: The Fellowship of the Ring
+[2018-02-11T20:14:14.881] [ALL] all - Release Year: 2001
+[2018-02-11T20:14:14.882] [ALL] all - IMDB Rating: 8.8
+[2018-02-11T20:14:14.882] [ALL] all - Rotten Tomatoes Rating: 91%
+[2018-02-11T20:14:14.882] [ALL] all - Country where movie was produced: New Zealand, USA
+[2018-02-11T20:14:14.882] [ALL] all - Language: English, Sindarin
+[2018-02-11T20:14:14.882] [ALL] all - Plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+[2018-02-11T20:14:14.882] [ALL] all - Actors: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+
+[2018-02-11T20:14:25.127] [ALL] all - Title: Big
+[2018-02-11T20:14:25.129] [ALL] all - Release Year: 1988
+[2018-02-11T20:14:25.129] [ALL] all - IMDB Rating: 7.3
+[2018-02-11T20:14:25.129] [ALL] all - Rotten Tomatoes Rating: 97%
+[2018-02-11T20:14:25.129] [ALL] all - Country where movie was produced: USA
+[2018-02-11T20:14:25.129] [ALL] all - Language: English
+[2018-02-11T20:14:25.129] [ALL] all - Plot: After wishing to be made big, a teenage boy wakes the next morning to find himself mysteriously in the body of an adult.
+[2018-02-11T20:14:25.129] [ALL] all - Actors: Tom Hanks, Elizabeth Perkins, Robert Loggia, John Heard
+
+[2018-02-11T20:14:39.896] [ALL] all - Artist(s): Bob Dylan
+[2018-02-11T20:14:39.898] [ALL] all - Song name: Tangled up in Blue
+[2018-02-11T20:14:39.898] [ALL] all - Preview link: https://p.scdn.co/mp3-preview/df5effa15c85a5a6283c4daa13dfddf1aeaf6fca?cid=81f9cf262a644c7a85c7a3258eea0a79
+[2018-02-11T20:14:39.899] [ALL] all - Album: Blood On The Tracks
+
